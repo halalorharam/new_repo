@@ -1,2 +1,2 @@
 # new_repo
-New report description .
+Update the description
